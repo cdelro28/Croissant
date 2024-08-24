@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  background-size: cover;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0;
+  color: #2b2024;
+}
+
+a {
+  color: #2b2024;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ae5a23;
+}
